@@ -1,5 +1,4 @@
 #!/bin/bash
-git config --global user.email "mattias.dupuis@etu.univ-nantes.fr"
 echo "Nom :"
 read name;
 git config --global user.name $name

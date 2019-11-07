@@ -1,6 +1,10 @@
 {
-    "prenom" : "Han",
-    "nom" : "Solo",
-    "pere" : "1",
-    "mere" : "2"
+    "personne": [
+        {
+            "id": 1,
+            "name": "Han Solo",
+            "pere": "1",
+            "mere": "2"
+        }
+    ]
 }
